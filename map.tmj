@@ -805,6 +805,11 @@
                  "name":"exitUrl",
                  "type":"string",
                  "value":"https:\/\/play.workadventu.re\/@\/pwc-france\/pwc-france\/tech-acceleration"
+                }, 
+                {
+                 "name":"exitUrlTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":false,
