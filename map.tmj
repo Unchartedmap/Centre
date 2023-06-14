@@ -59,6 +59,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"autoClose",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
                  "name":"doorVariable",
                  "type":"string",
                  "value":"Paris1_door"
@@ -130,6 +135,11 @@
          "name":"door_open_zone_paris2a",
          "opacity":1,
          "properties":[
+                {
+                 "name":"autoClose",
+                 "type":"bool",
+                 "value":true
+                }, 
                 {
                  "name":"doorVariable",
                  "type":"string",
