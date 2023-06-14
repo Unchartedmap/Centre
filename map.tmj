@@ -62,6 +62,11 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"Paris1_door"
+                }, 
+                {
+                 "name":"openTriggerMessage",
+                 "type":"string",
+                 "value":"Appuyez sur ESPACE pour \u00eatre t\u00e9l\u00e9port\u00e9 \u00e0 Crystal Park"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -129,6 +134,11 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"Paris2_door"
+                }, 
+                {
+                 "name":"openTriggerMessage",
+                 "type":"string",
+                 "value":"Appuyez sur ESPACE pour \u00eatre t\u00e9l\u00e9port\u00e9 \u00e0 Experience Center"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -338,7 +348,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Appuyez sur ESPACE pour \u00eatre inform\u00e9 sur  la strat\u00e9gie mondiale de PwC."
+                         "value":"Appuyez sur ESPACE pour \u00eatre inform\u00e9 sur la strat\u00e9gie mondiale de PwC."
                         }],
                  "type":"tilelayer",
                  "visible":true,
