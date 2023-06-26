@@ -1156,7 +1156,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openTab",
+                         "name":"exitUrl",
                          "type":"string",
                          "value":"https:\/\/play.workadventu.re\/@\/pwc-france\/pwc-france\/metiers"
                         }],
@@ -2620,6 +2620,7 @@
                  "x":0,
                  "y":0
                 }],
+         "locked":true,
          "name":"furniture",
          "opacity":1,
          "type":"group",
