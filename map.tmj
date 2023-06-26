@@ -1159,7 +1159,7 @@
                         {
                          "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/play.staging.workadventu.re\/@\/tcm\/workadventure\/corridor#from-wa"
+                         "value":"https:\/\/play.workadventu.re\/@\/pwc-france\/pwc-france\/metiers"
                         }],
                  "type":"tilelayer",
                  "visible":true,
