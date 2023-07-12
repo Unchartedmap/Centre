@@ -65,6 +65,11 @@
                  "value":true
                 }, 
                 {
+                 "name":"autoOpen",
+                 "type":"bool",
+                 "value":false
+                }, 
+                {
                  "name":"doorVariable",
                  "type":"string",
                  "value":"Paris1_door"
@@ -143,6 +148,11 @@
                  "value":true
                 }, 
                 {
+                 "name":"autoOpen",
+                 "type":"bool",
+                 "value":false
+                }, 
+                {
                  "name":"doorVariable",
                  "type":"string",
                  "value":"Paris2_door"
@@ -219,6 +229,11 @@
                  "name":"autoClose",
                  "type":"bool",
                  "value":true
+                }, 
+                {
+                 "name":"autoOpen",
+                 "type":"bool",
+                 "value":false
                 }, 
                 {
                  "name":"doorVariable",
