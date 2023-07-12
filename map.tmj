@@ -64,11 +64,6 @@
                  "value":true
                 }, 
                 {
-                 "name":"autoOpen",
-                 "type":"bool",
-                 "value":false
-                }, 
-                {
                  "name":"doorVariable",
                  "type":"string",
                  "value":"toulouse_door"
@@ -77,11 +72,6 @@
                  "name":"openTriggerMessage",
                  "type":"string",
                  "value":"Appuyez sur ESPACE pour \u00eatre t\u00e9l\u00e9port\u00e9 \u00e0 PwC Toulouse"
-                }, 
-                {
-                 "name":"zone",
-                 "type":"string",
-                 "value":"door_open_zone_toulouse"
                 }],
          "type":"tilelayer",
          "visible":true,
