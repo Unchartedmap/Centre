@@ -74,6 +74,11 @@
                  "value":"toulouse_door"
                 }, 
                 {
+                 "name":"openTriggerMessage",
+                 "type":"string",
+                 "value":"Appuyez sur ESPACE pour \u00eatre t\u00e9l\u00e9port\u00e9 \u00e0 PwC Toulouse"
+                }, 
+                {
                  "name":"zone",
                  "type":"string",
                  "value":"door_open_zone_toulouse"
@@ -2736,12 +2741,12 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":814.666666666666,
-                 "y":860
+                 "x":717.333333333333,
+                 "y":944
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
